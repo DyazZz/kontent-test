@@ -1,0 +1,13 @@
+.urls {
+  display: flex;
+  gap: 64px;
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+}

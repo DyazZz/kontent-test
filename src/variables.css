@@ -1,0 +1,15 @@
+:root {
+  --container: 1128px;
+
+  --text-primary: #000;
+  --text-secondary: #0b1524a8;
+  --text-tertiary: #0b152475;
+  --text-white: #fff;
+
+  --bg-primary: #fff;
+  --bg-secondary: #f2f3f4;
+
+  --color-accent-blue: #0762c8;
+
+  font-family: "Roboto Flex";
+}

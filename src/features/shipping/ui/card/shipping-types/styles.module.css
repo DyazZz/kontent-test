@@ -1,0 +1,19 @@
+.types {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  font-size: 14px;
+
+  img {
+    width: 20px;
+    height: 20px;
+  }
+
+  span {
+    color: var(--text-secondary);
+  }
+
+  .others {
+    color: var(--color-accent-blue);
+  }
+}

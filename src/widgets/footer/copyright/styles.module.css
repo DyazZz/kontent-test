@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+  line-height: 16px;
+
+  a {
+    color: var(--text-secondary);
+    font-weight: 500;
+  }
+}
+
+.copyright {
+  color: #8f949a;
+}

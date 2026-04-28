@@ -1,0 +1,43 @@
+.userContainer {
+  display: flex;
+  align-items: end;
+  gap: 24px;
+}
+
+.notify {
+  position: relative;
+
+  span {
+    color: var(--text-white);
+    position: absolute;
+    font-size: 11px;
+    line-height: 16px;
+    background-color: red;
+    padding: 0 5px;
+    border-radius: 8px;
+    left: 10px;
+    top: -4px;
+  }
+}
+
+.user {
+  display: flex;
+  height: 32px;
+  background: #0b15240d;
+  border-radius: 16px;
+  overflow: hidden;
+  align-items: center;
+  gap: 10px;
+  padding-right: 16px;
+
+  img {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+  }
+
+  span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
